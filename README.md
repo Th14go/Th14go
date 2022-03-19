@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center"> Hello! Eu sou o Thiago Lopes</h2>
 
-<!--
-**Th14go/Th14go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨‍💻 Sobre mim</h3>
 
-Here are some ideas to get you started:
+- 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Unopar Arapongas.
+- 👨🏼‍💻 &nbsp; CEO na  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
+- 👨🏼‍💻 &nbsp; CEO na  <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div>
+<a href="https://github.com/Th14go">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th14go&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th14go&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  ### Contatos:
+
+<div>
+<a href="https://instagram.com/thiagoolopess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiagoolopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://twitter.com/th14goh" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+</div>
