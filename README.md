@@ -1,10 +1,12 @@
-<h2 align="center"> Hello! Eu sou o Thiago Lopes</h2>
+<h2 align="center"> {{Hello}}! Eu sou o Thiago Lopes</h2>
 
 <h3> 👨‍💻 Sobre mim</h3>
 
 - 🎓 &nbsp; Professor no Curso de Análise e Desenvolvimento de Sistemas em Unopar Arapongas.
 - 👨🏼‍💻 &nbsp; CEO na  <a href="https://daringtech.com.br">Daring Tech Sistemas</a>.
-- 👨🏼‍💻 &nbsp; CEO na  <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
+- 👨🏼‍💻 &nbsp; CTO na  <a href="https://jobox.com.br">Jobox</a>.
+- 👨🏼‍💻 &nbsp; Jobs  <a href="https://thiagolopesdev.com.br">Thiago Lopes Dev</a>.
+
 
 <br/>
 
